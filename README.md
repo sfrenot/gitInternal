@@ -35,8 +35,8 @@ Nous allons maintenant étudier le fonctionnement interne de git.
 
 Git est un système de fichiers orienté clés-valeurs. C'est à dire que les constituants classiques d'un système de fichiers sont représentés dans un ensemble de couples clés/valeurs.
 
-Q2 : Quelle type de clé peut être utilisé dans ce genre de sytème ?
-Q3 : Quel structure et quel algorithme permettent de gérer la notion de clé / valeur  
+Q3.1 : Quelle type de clé peut être utilisé dans ce genre de sytème ?  
+Q3.2 : Quel structure et quel algorithme permettent de gérer la notion de clé / valeur  
 Q4 : Donnez pour un fichier dans le répertoire racine la liste des clés nécessaires qui permettent de représenter les données stockées.
 
 ---
